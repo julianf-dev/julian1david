@@ -59,7 +59,7 @@
     src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"
     alt="React"
     width="18"
-/> React
+/> Learning React
 
 <img 
     aling="left"
@@ -103,37 +103,13 @@
     width="18"
 /> Mongo DB
 
-<img
-  aling="left"
-  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"
-  alt="Git"
-  width="18"
-/> Git
 
-<img
-  aling="left"
-  src="https://github.com/fluidicon.png"
-  alt="GitHub"
-  width="18"
-/> Github
+<h4>Tools & Technologies</h4>
+<p>
 
-<img
-  aling="left"
-  src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png"
-  alt="Terminal"
-  width="18"
-/> Terminal
-
-<img
-  aling="left"
-  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/visualstudio_code_logo_icon_170247.png"
-  alt="Vs Code"
-  width="18"
-/> VS Code
-
-<img
-  aling="left"
-  src="https://trello.com/favicon.ico"
-  alt="Trello"
-  width="18"
-/> Trello
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+</p>
