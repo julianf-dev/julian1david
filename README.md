@@ -77,13 +77,6 @@
 
 <img 
     aling="left"
-    src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png"
-    alt="PostgreSQL"
-    width="18"
-/> PostgreSQL
-
-<img 
-    aling="left"
     src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png"
     alt="MongoDB"
     width="18"

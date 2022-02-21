@@ -70,34 +70,9 @@ section{
     margin-top: 7px;
 }
 
-.social-networks {
+.footer{
     padding-top: 150px;
-    display: flex;
-    flex-direction: row;
     justify-content: space-around;
-    width: 100%;
+
 }
 
-.social-networks img {
-    height: 2.8rem;
-}
-
-.button.facebook:hover {
-    background-color: var(--facebook);
-}
-
-.button.twitter:hover {
-    background-color: var(--twitter);
-}
-
-.button.instagram:hover {
-    background-color: var(--instagram);
-}
-
-.button.youtube:hover {
-    background-color: var(--youtube);
-}
-
-.button.github:hover {
-    background-color: var(--github);
-}
