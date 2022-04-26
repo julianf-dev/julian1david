@@ -1,4 +1,8 @@
-### Hi there, I'm Julián F 👋
+<h1 align="center">
+Hi I'm Julian👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=%23997FFF&lines=Frontend+Developer+in+process+%F0%9F%92%BB;I+love+learning.+)](https://git.io/typing-svg)
+</h1>
 
 ## I'm a Junior Software Developer from Colombia.
 
@@ -9,12 +13,12 @@
 
 ## Connect with me:
 [<img
-  aling="center"
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
   alt="LinkedIn"
   width="32"
 />](https://www.linkedin.com/in/julian1david//)
 
+<section align="center">
 
 ## Languages and Technologies:
 
@@ -51,11 +55,6 @@
     alt="Python"
     width="32"
 /> 
-<img 
-    src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-flask_icon-icons.com_50797.png"
-    alt="Flask"
-    width="32"
-/> 
 
 <br />
 
@@ -71,15 +70,9 @@
     width="18"
 /> Learning Angular
 
-<img 
-    src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"
-    alt="Django"
-    width="18"
-/> Learning Django
 
-<br />
 <h3>Tools & Technologies</h3>
-<br />
+
 <p>
 
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -89,3 +82,7 @@
 ![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 </p>
+
+</section>
+
+
